@@ -1,0 +1,2 @@
+test.txt dosyası ilk değş.
+2.satır eklendi
